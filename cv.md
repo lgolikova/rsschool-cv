@@ -3,21 +3,21 @@
 
 
 ## Contacts
----
+
 * tel.: +79113315104
 * e-mail: milagoul@gmail.com
 * github: lgolikova
 * discord: mila_golikova
 
-
-## Briefly about myself
 ---
-I am 36 years old. I live in Murmansk, Russia. My current activity is not related to programming, but I have been studying it on my own for several years and am passionate about it. My goal is to learn JS and React at a level sufficient to apply for the position of junior front-end developer.
+## Briefly about myself
+
+I am 36 years old. I live in Murmansk, Russia. My current activity is not related to programming, but I have been studying it on my own for several years and am passionate about it. My goal is to learn JS and React at a level sufficient to apply for the position of junior front-end developer.  
 My strengths: attentiveness, quick learner, multitasking, ability to work in a team.
 
-
-## Skills
 ---
+## Skills
+
 * HTML
 * CSS
 * SCSS
@@ -25,9 +25,9 @@ My strengths: attentiveness, quick learner, multitasking, ability to work in a t
 * Figma
 * VSCode
 
-
-## Code Example
 ---
+## Code Example
+
 8kyu KATA from Codewars: Sum of positive.
 
 
@@ -46,21 +46,21 @@ function positiveSum(arr) {
 }
 ```
 
-
+---
 ## Experience
----
+
 Learning projects:
-* https://github.com/lgolikova/google_ads
-* https://github.com/lgolikova/Week8_bootstrap
-* https://github.com/lgolikova/Week8_BEM
+* <https://github.com/lgolikova/google_ads>
+* <https://github.com/lgolikova/Week8_bootstrap>
+* <https://github.com/lgolikova/Week8_BEM>
 
-
-## Education
 ---
+## Education
+
 Murmansk State Technical University – Radio engineer
 
- 
+--- 
 ## Languages
----
+
 * Russian - native speaker.
 * English - A2
