@@ -6,6 +6,7 @@
 
 body {
     font-family: sans-serif;
+    background-color: #EDEEF0;
 }
 
 .container {
@@ -15,27 +16,79 @@ body {
     flex-direction: column;
 }
 
-.main-container {
+header {
+    margin: 20px 0;
     display: flex;
 }
 
 .photo {
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     object-fit: cover;
     border-radius: 50%;
     display: block;
+    
+}
+
+.aside_photo {
+    margin: 0 auto 40px;
 }
 
 .main-container {
     display: flex;
-    flex-grow: 1;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     gap: 20px;
 }
 
 aside {
     display: flex;
     flex-direction: column;
-    width: 30%;
+    flex-grow: 1;
+    padding: 50px;
+}
+
+main {
+    width: 70%;
+    padding: 50px 70px;
+}
+
+header, footer, main, aside {
+    background-color: white;
+    border-radius: 10px;
+}
+
+h1 {
+    background-color: rgb(253, 196, 90);
+    color: rgb(43, 43, 43);
+    line-height: 1.2;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 40px;
+    font-size: 40px;
+}
+
+h2 {
+    background-color: rgba(154, 217, 221, 0.921);
+    display: inline-block;
+    border-radius: 10px;
+    line-height: 1.1;
+    padding: 7px;
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+li {
+    list-style: none;
+}
+
+main li::before {
+    content: '✔';
+}
+
+aside li::before {
+    content: '◾';
 }
